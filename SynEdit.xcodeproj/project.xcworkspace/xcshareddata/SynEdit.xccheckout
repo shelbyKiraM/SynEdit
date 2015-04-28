@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4C8DA4E7-98E4-4512-B8C8-28A95AE2C151</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SynEdit</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>93CFA3A304288A29EA1B903D9AE37B3E5D4BC160</key>
+		<string>github.com:blacRose/SynEdit.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SynEdit.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>93CFA3A304288A29EA1B903D9AE37B3E5D4BC160</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:blacRose/SynEdit.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>93CFA3A304288A29EA1B903D9AE37B3E5D4BC160</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>93CFA3A304288A29EA1B903D9AE37B3E5D4BC160</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SynEdit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
